@@ -1,0 +1,12 @@
+defaultPortal: ayo_pd_demo_cfw
+portals:
+  - name: ayo_pd_demo_cfw
+    portalId: 26305460
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CI6khMG6MBIJAA0AAAAA4A0DGLTHxQwg5eGPFSju6QwyFLDCWv8dNyrIGqd02442A_rOnsBzOjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhSK90Wnp9ptJVTVcK_D2GgKWdXs9UoDZXUxUgBaAA
+        expiresAt: '2022-10-05T12:31:23.154Z'
+    personalAccessKey: >-
+      CiRldTEtZTQ0Ny03NmFjLTQ3MzUtOThhOS1kMGEyNWJmYjIxYzYQtMfFDBjl4Y8VKhkABeaRglAK_F0JGcwAf5Z0ecxahpDXusrwSgNldTE
