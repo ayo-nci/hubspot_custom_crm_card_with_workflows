@@ -1,0 +1,22 @@
+{
+  "name": "Custom CRM Card with Workflows",
+  "description": "A private app that contains displays company associated contacts and applies actions to them.",
+  "scopes": [
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "crm.objects.deals.read",
+    "crm.objects.deals.write",
+    "crm.objects.companies.read",
+    "crm.objects.companies.write"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "./crm-card.json"
+        }
+      ]
+    }
+  }
+}
